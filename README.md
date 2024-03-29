@@ -9,6 +9,12 @@ CodeHub is your go-to destination for curated code snippets and solutions. Wheth
 - Advanced solutions for experienced developers
 - Community-driven: contribute your own code snippets
 
+## Available Snippets
+
+- [JavaScript](JavaScript/README.md)
+
+Explore these folders to discover useful code snippets for your projects. Don't forget to star the repository if you find it helpful!
+
 ## How to Contribute
 
 We welcome contributions from the community! To contribute your own code snippets:
