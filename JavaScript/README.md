@@ -19,11 +19,3 @@ To use these utility functions in your project, simply import the desired functi
 - [createCounter](utility-functions/create-counter.js): generates a counter object with methods to increment, decrement, and process the counter value asynchronously. Useful for managing and manipulating counters in JavaScript applications.
 
 Explore these subfolders to discover specific utility functions for your JavaScript projects.
-
-## Contributing
-
-If you have additional JavaScript utility functions that you would like to contribute to this collection, feel free to submit a pull request. Make sure to include clear documentation and examples of usage for any new functions.
-
-## License
-
-This library of JavaScript utilities is provided under the [MIT License](LICENSE).
