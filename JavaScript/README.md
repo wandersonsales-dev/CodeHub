@@ -16,7 +16,7 @@ To use these utility functions in your project, simply import the desired functi
 
 ## Subfolders
 
-- [createCounter](JavaScript/utility-functions/create-counter.js): generates a counter object with methods to increment, decrement, and process the counter value asynchronously. Useful for managing and manipulating counters in JavaScript applications.
+- [createCounter](utility-functions/create-counter.js): generates a counter object with methods to increment, decrement, and process the counter value asynchronously. Useful for managing and manipulating counters in JavaScript applications.
 
 Explore these subfolders to discover specific utility functions for your JavaScript projects.
 
